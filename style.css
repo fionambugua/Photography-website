@@ -15,6 +15,13 @@ header {
   padding: 24px 0;
   font-weight: 500;
 }
+#header{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 20px;
+}
+
 nav {
   text-align: center;
   background-color: rgb(236, 176, 186);
