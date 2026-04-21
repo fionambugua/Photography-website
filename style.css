@@ -9,14 +9,14 @@ body h1{
     font-style: italic;
 }
 header{
-    background-color:pink;
+    background-color:rgb(236, 176, 186);
     color: black;
     text-align: center;
     padding: 24px 0;
 }
 nav{
     text-align: center;
-    background-color: pink;
+    background-color:rgb(236, 176, 186);
 }
 nav a{
     text-decoration: none;
@@ -62,4 +62,12 @@ ul{
     padding: 0;
     list-style: none;
     line-height: 2;
+    letter-spacing: 0.5px;
+}
+.emailform{
+    text-align: center;
+    letter-spacing: 0.5px;
+}
+#email{
+    background-color:;
 }
