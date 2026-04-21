@@ -35,20 +35,28 @@ nav a:active{
     color: brown;
     text-decoration: underline;
 }
-.biography{
-    display: flex;
-    /* float: left; */
-    padding: 5px;
-}
-.biography img{
-    height: 200px;
-    width: 200px;
-    border-radius: 50px;
+p{
+    margin-left: 20px;
 }
 #name{
     font-size: 40px;
     font-weight: bold;
     font-style: italic;
+}
+#biography{
+    display: flex;
+    padding: 5px;
+}
+#biography img{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black ;
+    border-radius: 50px;
+}
+.bioparagraph{
+    height: 50px;
+    width: 1000px;
+    /* overflow: auto; */
 }
 .imageContainer{
     display: flex;
@@ -87,9 +95,6 @@ ul{
 .emailform{
     text-align: center;
     letter-spacing: 0.5px;
-}
-#email{
-    background-color:;
 }
 form{
     padding: 0;
