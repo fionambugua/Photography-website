@@ -35,6 +35,21 @@ nav a:active{
     color: brown;
     text-decoration: underline;
 }
+.biography{
+    display: flex;
+    /* float: left; */
+    padding: 5px;
+}
+.biography img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+#name{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
 .imageContainer{
     display: flex;
     flex-wrap: wrap;
