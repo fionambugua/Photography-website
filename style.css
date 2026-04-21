@@ -28,6 +28,7 @@ nav a:hover{
     text-decoration: underline;
     color: purple;
     font-size: 18px;
+    cursor: pointer;
 }
 .imageContainer{
     display: flex;
@@ -39,11 +40,21 @@ nav a:hover{
     
 }
 .image img{
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     border: 1px solid;
-    border-radius: 10%;
+    /* border-radius: 10%; */
 }
 .image img:hover{
     box-shadow: 0 18px 20px rgba(0, 0, 0, 0.2)
+}
+section{
+    max-width: 1000px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 20px;
+}
+h2{
+    font-style: italic;
 }
