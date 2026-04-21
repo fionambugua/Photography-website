@@ -43,8 +43,11 @@ p{
     font-weight: bold;
     font-style: italic;
 }
-#biography{
+.biosect{
     display: flex;
+}
+#biography{
+    /* display: flex; */
     padding: 5px;
 }
 #biography img{
@@ -71,6 +74,7 @@ p{
     height: 250px;
     width: 250px;
     border: 1px solid black;
+    margin-bottom: 20px;
     /* border-radius: 10%; */
 }
 .image img:hover{
