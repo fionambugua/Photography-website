@@ -10,4 +10,8 @@ copy the project url on your preffered browser.
 URL: https://fionambugua.github.io/Photography-website/
 
 License
-This project is licensed under the Fiona Mbugua License
+## License
+Copyright (c) 2026 Fiona Mbugua. Distributed under the MIT License. See ### License
+Copyright (c) 2024 [Your Name]. Distributed under the MIT License. See `LICENSE` for more information.
+ for more information.
+
