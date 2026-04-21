@@ -11,7 +11,6 @@ URL: https://fionambugua.github.io/Photography-website/
 
 License
 ## License
-Copyright (c) 2026 Fiona Mbugua. Distributed under the MIT License. See ### License
-Copyright (c) 2024 [Your Name]. Distributed under the MIT License. See `LICENSE` for more information.
+Copyright (c) 2026 Fiona Mbugua. Distributed under the MIT License. See [License](LICENSE)
  for more information.
 

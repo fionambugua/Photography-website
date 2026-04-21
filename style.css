@@ -65,7 +65,6 @@ p {
 .bioparagraph {
   height: 50px;
   width: 1000px;
-  /* overflow: auto; */
 }
 .awards {
   text-align: center;
@@ -78,7 +77,6 @@ p {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  /* column-count: 3; */
   padding: 20px;
   margin: 30px;
 }
@@ -87,7 +85,6 @@ p {
   width: 250px;
   border: 1px solid black;
   margin-bottom: 20px;
-  /* border-radius: 10%; */
 }
 .image img:hover {
   box-shadow: 0 18px 20px rgba(0, 0, 0, 0.2);
