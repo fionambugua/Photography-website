@@ -19,7 +19,7 @@ header {
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
   font-style: normal;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 nav {
@@ -88,6 +88,7 @@ p {
 }
 .image img:hover {
   box-shadow: 0 18px 20px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease;
 }
 section {
   max-width: 1000px;
