@@ -75,19 +75,18 @@ p {
 }
 .image{
   border: 1px solid black;
-  /* height: 250px; */
   width: 300px;
   box-sizing: border-box;
-  /* margin-bottom: 20px; */
-  /* margin: 500px 200px; */
+  margin-bottom: 10px;
   background-color: rgb(243, 209, 214) ;
+  border-radius: 20px;
   
 }
 .imageContainer {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 20px;
+  padding: 10px;
   margin: 30px;
 }
 .image img {
@@ -99,6 +98,10 @@ p {
   border-top: 1px solid black;
 }
 .image img:hover {
+  box-shadow: 0 18px 20px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease;
+}
+.image:hover {
   box-shadow: 0 18px 20px rgba(0, 0, 0, 0.2);
   transition: box-shadow 0.3s ease;
 }
